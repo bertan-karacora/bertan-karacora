@@ -12,6 +12,6 @@
     <img
          height="180em"
          align="center"
-         src="https://github-readme-stats.bertan-karacora.vercel.app/api/top-langs/?username=bertan-karacora&langs_count=6&hide=c,shell,java,cmake,makefile&size_weight=0&count_weight=1&layout=compact&theme=dark&bg_color=00000000"
+         src="https://github-readme-stats.bertan-karacora.vercel.app/api/top-langs/?username=bertan-karacora&langs_count=6&hide=c,shell,java,cmake,makefile&size_weight=0.1&count_weight=0.9&layout=compact&theme=dark&bg_color=00000000"
     />
 </p>
